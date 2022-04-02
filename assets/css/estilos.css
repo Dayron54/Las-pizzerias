@@ -100,12 +100,12 @@ td:nth-of-type(1) {
     color: #36c5d8;
 }
 /* ANIMACIONES EN CSS */
-.content{
+/* .content{ */
     /* animation-duration: 3s;
     animation-name: slidein;
     animation-iteration-count: alternate;  */
     /* animation: 3s infinite alternate slidein; */
-}
+
 
 @keyframes slidein {
     from {
